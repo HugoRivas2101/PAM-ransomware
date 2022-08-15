@@ -1,4 +1,4 @@
-## Resumen
+## 📜 Resumen
 
 El ransomware es un tipo de malware bastante común hoy en día; sin embargo, muchos usuarios aún no son conscientes de los daños que puede ocasionar. En el presente informe, se explica qué es un ransomware, sus tipos y se nombra algunos ejemplos de este malware con el objetivo de mostrar los potenciales daños, conocer su funcionamiento y evitar ser víctima de uno. Además, se desarrolla un prototipo de ransomware con el lenguaje python para una mejor explicación de su funcionamiento.
 
@@ -6,10 +6,18 @@ Antes de la ejecución del código, se debe ejecutar el archivo server.py con el
 
 El código ProyectoConPassword encripta una sola carpeta, pero se puede cambiar fácilmente por todo el disco C:// en el caso de windows, o todo el directorio root en linux. 
 
-## Ejecución
+## 👨‍💻 Ejecución
 
-Primero se habilita el ssh, se ejecuta el programa server.py y por último se ejecuta ngrok.
+<ul>
+
+<li>Primero se habilita el ssh, luego se ejecuta el programa server.py y por último se ejecuta ngrok.</li>
 
 https://user-images.githubusercontent.com/67574216/184583853-0ffc9517-1eeb-415b-9b12-00e24dc95ad8.mp4
 
 
+
+<li>Ejecución del programa</li>
+
+
+https://user-images.githubusercontent.com/67574216/184587375-281796ac-b260-4f07-a2bd-e34bd1667e5e.mp4
+</ul>
